@@ -28,7 +28,6 @@ This project is licensed under the MIT License.
       </div>
       <a href="https://github.com/pinaryildiz"> Pınar Yıldız </a>
     </td>     
- <td>
 </table>
 
 ### Contact
