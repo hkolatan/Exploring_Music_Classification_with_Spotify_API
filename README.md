@@ -22,6 +22,13 @@ This project is licensed under the MIT License.
       </div>
       <a href="https://github.com/hkolatan"> Halil Kolatan </a>
     </td>
+    <td>
+      <div>
+        <a href="https://github.com/pinaryildiz"><img src="https://avatars.githubusercontent.com/u/123452298?v=4" width=150></a>
+      </div>
+      <a href="https://github.com/pinaryildiz"> Pınar Yıldız </a>
+    </td>     
+ <td>
 </table>
 
 ### Contact
