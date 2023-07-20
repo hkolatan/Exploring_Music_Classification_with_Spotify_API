@@ -1,7 +1,21 @@
-# Spotify API Classification
+# Exploring Music Classification with Spotify API
 
-This project aims to classify music genres using machine learning algorithms. The goal is to build a model that can accurately predict the genre of a given music track based on its audio features.
 
+## Overview
+
+This project aims to classify music genres using machine learning algorithms. The goal is to build a model that can accurately predict the genre of a given music track based on its audio features. The dataset used for this project is obtained from the Spotify API, which provides a wide range of audio features for each track.
+
+The project is divided into the following main steps:
+1. Data Collection: Retrieving audio features and track information using the Spotify API and storing them in a SQL database.
+2. Data Analysis: Exploratory data analysis to understand the distribution and relationships of the audio features.
+3. Model Building: Creating and training machine learning models to classify music genres based on the audio features.
+4. Model Evaluation: Evaluating the performance of the trained models using various metrics.
+5. Web Application: Creating a Streamlit web application to interactively predict the genre of a user-provided music track.
+
+
+## Tools Used
+
+https://github.com/hkolatan/DS_Bootcamp_Spotify_API_Classification/blob/main/img/Used_Tools.PNG
 
 ## License
 This project is licensed under the MIT License.
