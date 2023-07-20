@@ -15,7 +15,10 @@ The project is divided into the following main steps:
 
 ## Tools Used
 
-https://github.com/hkolatan/DS_Bootcamp_Spotify_API_Classification/blob/main/img/Used_Tools.PNG
+<h2 align="center">
+  <img src="https://github.com/hkolatan/DS_Bootcamp_Spotify_API_Classification/blob/main/img/Used_Tools.PNG" alt="Tools" width="600px" />
+  <br>
+</h2>
 
 ## License
 This project is licensed under the MIT License.
