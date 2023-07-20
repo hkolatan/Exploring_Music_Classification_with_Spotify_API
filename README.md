@@ -1,5 +1,10 @@
 # Exploring Music Classification with Spotify API
 
+<h2 align="center">
+  <img src="https://github.com/hkolatan/Exploring_Music_Classification_with_Spotify_API/blob/main/spotify-streamlit/Streamlit_app.png" alt="Tools" width="600px" />
+  <br>
+</h2>
+
 
 ## Overview
 
