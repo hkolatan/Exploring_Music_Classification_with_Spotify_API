@@ -20,7 +20,7 @@ The project is divided into the following main steps:
 
 ## API Structure
 <h2 align="center">
-  <img src="https://github.com/hkolatan/Exploring_Music_Classification_with_Spotify_API/blob/main/img/Database_Diagram.png" alt="Tools" width="600px" />
+  <img src="https://github.com/hkolatan/Exploring_Music_Classification_with_Spotify_API/blob/main/img/API_Structure.png" alt="Tools" width="600px" />
   <br>
 </h2>
 
