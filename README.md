@@ -1,7 +1,7 @@
 # Exploring Music Classification with Spotify API
 
 <h2 align="center">
-  <img src="https://github.com/hkolatan/Exploring_Music_Classification_with_Spotify_API/blob/main/spotify-streamlit/Streamlit_app.png" alt="Tools" width="600px" />
+  <img src="https://github.com/hkolatan/Exploring_Music_Classification_with_Spotify_API/blob/main/Presentation/Cover.png" alt="Tools" width="600px" />
   <br>
 </h2>
 
@@ -13,15 +13,33 @@ This project aims to classify music genres using machine learning algorithms. Th
 The project is divided into the following main steps:
 1. Data Collection: Retrieving audio features and track information using the Spotify API and storing them in a SQL database.
 2. Data Analysis: Exploratory data analysis to understand the distribution and relationships of the audio features.
-3. Model Building: Creating and training machine learning models to classify music genres based on the audio features.
+3. Model Selection: Creating and training machine learning models to classify music genres based on the audio features.
 4. Model Evaluation: Evaluating the performance of the trained models using various metrics.
 5. Web Application: Creating a Streamlit web application to interactively predict the genre of a user-provided music track.
 
+
+## API Structure
+<h2 align="center">
+  <img src="https://github.com/hkolatan/Exploring_Music_Classification_with_Spotify_API/blob/main/img/Database_Diagram.png" alt="Tools" width="600px" />
+  <br>
+</h2>
 
 ## Tools Used
 
 <h2 align="center">
   <img src="https://github.com/hkolatan/DS_Bootcamp_Spotify_API_Classification/blob/main/img/Used_Tools.PNG" alt="Tools" width="600px" />
+  <br>
+</h2>
+
+## Streamlit
+
+To showcase the genre prediction model, we developed an interactive web application using Streamlit. This web application allows users to input audio features of a music track and the model predicts the most likely class (active/quiet) for the given track. Users can enter specific numerical ranges for attributes such as energy, acousticity, instrumentality and tempo to filter and discover songs that match their criteria. It also includes a recommendation system. [Click the link to Discover](https://spotify-mood.streamlit.app/).
+
+
+### Screenshot
+
+<h2 align="center">
+  <img src="https://github.com/hkolatan/Exploring_Music_Classification_with_Spotify_API/blob/main/spotify-streamlit/Streamlit_app.png" alt="Tools" width="600px" />
   <br>
 </h2>
 
