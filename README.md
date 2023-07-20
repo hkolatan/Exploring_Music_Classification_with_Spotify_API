@@ -33,7 +33,7 @@ The project is divided into the following main steps:
 
 ## Streamlit
 
-To showcase the genre prediction model, we developed an interactive web application using Streamlit. This web application allows users to input audio features of a music track and the model predicts the most likely class (active/quiet) for the given track. Users can enter specific numerical ranges for attributes such as energy, acousticity, instrumentality and tempo to filter and discover songs that match their criteria. It also includes a recommendation system. [Click the link to Discover](https://spotify-mood.streamlit.app/).
+To showcase the genre prediction model, we developed an interactive web application using Streamlit. This web application allows users to input audio features of a music track and the model predicts the most likely class (active/relax) for the given track. Users can enter specific numerical ranges for attributes such as energy, acousticity, instrumentality and tempo to filter and discover songs that match their criteria. It also includes a recommendation system. [Click the link to Discover](https://spotify-mood.streamlit.app/).
 
 
 ### Screenshot
