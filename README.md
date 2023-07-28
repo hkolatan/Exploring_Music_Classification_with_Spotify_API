@@ -8,7 +8,7 @@
 
 ## Overview
 
-This project aims to classify music genres using machine learning algorithms. The goal is to build a model that can accurately predict the genre of a given music track based on its audio features. The dataset used for this project is obtained from the Spotify API, which provides a wide range of audio features for each track.
+This project aims to classify music genres using machine learning algorithms. The goal is to build a model that can accurately predict the mood of a given piece of music based on audio features. The dataset used for this project is obtained from the Spotify API, which provides a wide range of audio features for each track.
 
 The project is divided into the following main steps:
 1. Data Collection: Retrieving audio features and track information using the Spotify API and storing them in a SQL database.
